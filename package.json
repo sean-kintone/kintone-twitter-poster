@@ -1,0 +1,14 @@
+{
+  "name": "kintone-tweet-poster",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "twitter-api-v2": "^1.22.0"
+  }
+}
